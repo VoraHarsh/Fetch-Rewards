@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Fetch Rewards List</string>
+
+    <string name="id">242</string>
+    <string name="idtxtview">Id:</string>
+    <string name="name">Item 242</string>
+    <string name="nametxtview">Name:</string>
+    <string name="listId">1</string>
+    <string name="listIdtxtview">ListId:</string>
+
+</resources>
