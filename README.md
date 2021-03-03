@@ -16,3 +16,7 @@ git clone https://github.com/VoraHarsh/Fetch-Rewards.git
 ```
 - Open this Folder into Android Studio.
 - Run the Application on your Android Phone or Emulator.
+
+<p align="center">
+  <img  src="Assets/overview.gif" width="1920">
+</p>
